@@ -1,0 +1,10 @@
+number:
+byte int double short float long
+ 
+boolean :
+True false
+
+character:
+a-z A-Z 0-9
+
+array[]
